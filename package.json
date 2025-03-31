@@ -1,0 +1,10 @@
+{
+  "name": "coti-store-reader",
+  "version": "1.0.0",
+  "description": "Script to read privateNumber from COTI Store contract",
+  "main": "readPrivateNumber.js",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "@coti-io/coti-ethers": "^1.0.0"
+  }
+} 
