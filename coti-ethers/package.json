@@ -1,0 +1,16 @@
+{
+  "name": "coti-ethers",
+  "version": "1.0.0",
+  "main": "store-interaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@coti-io/coti-ethers": "^1.0.5",
+    "ethers": "^6.13.5"
+  }
+}

@@ -8,15 +8,48 @@ In order to run this demo
 
 Run the following prompt:
 
+Given: 1. coti documentation p
+Given:
 
-     1. coti documentation provided at https://docs.coti.io, 
+ 1. coti documentation provided at https://docs.coti.io, 
 
-     2. the COTI smart contracted provided https://github.com/YaruLabs/blob/main/contract/store.sol 
+ 2. the COTI smart contracted provided
 
-     3. and deplyed at 0x78953065c5bbD6035D58135a73f2caa9E050A373
+ https://github.com/plucena/simple-cursor-demo/blob/main/contract/store.sol 
 
-    4. PRIVATE_KEY XXX
+3. and deplyed at 0x78953065c5bbD6035D58135a73f2caa9E050A373
 
-    5. AesKey XXX
+4. PRIVATE_KEY 0x3b8ad7ca3cf54b1273004775afa88587b8d6bd8a970c84fe216f6febb477347d
 
-    Write an Ether.Js nodejs script  based on the examples provided at @coti-ethers  that calls the store.sol on COTI Testnet and print the privateNumber on the scree
+5. AesKey 63f49d1ef7b1510060edcec934828b09
+
+
+
+Write an Ether.Js script  based on the examples provided at https://github.com/coti-io/coti-ethers that calls the store.sol and print the privateNumber on the screen
+
+Make sure to use  CotiNetwork.Testnet
+
+
+
+TO SET The number
+
+Given: 1. coti documentation p
+Given:
+
+ 1. coti documentation provided at https://docs.coti.io, 
+
+ 2. the COTI smart contracted provided
+
+ https://github.com/plucena/simple-cursor-demo/blob/main/contract/store.sol 
+
+3. and deplyed at 0x78953065c5bbD6035D58135a73f2caa9E050A373
+
+4. PRIVATE_KEY 0x3b8ad7ca3cf54b1273004775afa88587b8d6bd8a970c84fe216f6febb477347d
+
+5. AesKey 63f49d1ef7b1510060edcec934828b09
+
+
+
+Write an Ether.Js Java script  based on the examples provided at https://github.com/coti-io/coti-ethers that call the store.sol and sets the privateNumber to 99
+
+Make sure to use  CotiNetwork.Testnet
