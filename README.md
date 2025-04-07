@@ -1,4 +1,3 @@
-# read-private-number
 Crating ether-js client to interact with a Simple Smart Contract Using Cursor
 
 In order to run this demo
@@ -6,16 +5,13 @@ In order to run this demo
 1. deploy the smart contract on Remix
 2. Take note of AES key and private key
 
-Run the following prompt:
+# read-private-number
 
-Given: 1. coti documentation p
 Given:
 
  1. coti documentation provided at https://docs.coti.io, 
 
- 2. the COTI smart contracted provided
-
- https://github.com/plucena/simple-cursor-demo/blob/main/contract/store.sol 
+ 2. the COTI smart contracted provided contract/store.sol
 
 3. and deplyed at 0x78953065c5bbD6035D58135a73f2caa9E050A373
 
@@ -24,12 +20,12 @@ Given:
 5. AesKey 63f49d1ef7b1510060edcec934828b09
 
 
-#set private number
-
-Write an Ether.Js script  based on the examples provided at https://github.com/coti-io/coti-ethers that calls the store.sol and print the privateNumber on the screen
+Write an Ether.Js Javascript  based on the examples provided at https://github.com/coti-io/coti-ethers that calls the store.sol and print the privateNumber on the screen
 
 Make sure to use  CotiNetwork.Testnet
 
+
+#set private number
 
 
 TO SET The number
