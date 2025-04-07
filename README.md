@@ -1,4 +1,4 @@
-# simple-cursor-demo
+# read-private-number
 Crating ether-js client to interact with a Simple Smart Contract Using Cursor
 
 In order to run this demo
@@ -24,6 +24,7 @@ Given:
 5. AesKey 63f49d1ef7b1510060edcec934828b09
 
 
+#set private number
 
 Write an Ether.Js script  based on the examples provided at https://github.com/coti-io/coti-ethers that calls the store.sol and print the privateNumber on the screen
 
