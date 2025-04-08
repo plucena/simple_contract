@@ -2,6 +2,7 @@
   "name": "coti-contract-reader",
   "version": "1.0.0",
   "description": "Script to read private number from COTI contract",
+  "type": "module",
   "main": "readPrivateNumber.js",
   "dependencies": {
     "@coti-io/coti-ethers": "^1.0.5",
