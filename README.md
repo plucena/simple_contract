@@ -25,13 +25,9 @@ Write an Ether.Js Javascript  based on the examples provided at https://github.c
 Make sure to use  CotiNetwork.Testnet
 
 
-#set private number
-
-
-TO SET The number
+# set private number
 
 Given: 1. coti documentation p
-Given:
 
  1. coti documentation provided at https://docs.coti.io, 
 
@@ -46,7 +42,10 @@ Given:
 5. AesKey 63f49d1ef7b1510060edcec934828b09
 
 
-
 Write an Ether.Js Java script  based on the examples provided at https://github.com/coti-io/coti-ethers that call the store.sol and sets the privateNumber to 99
 
 Make sure to use  CotiNetwork.Testnet
+
+# Create UI
+
+create an HTML file that will load the private number from the contract using the information in @coti-ethers/readPrivateNumber.js use coti-ethers library defined on @coti-ethers/browser/public/coti-ethers.bundle.js. Display PK, AES key
